@@ -1,1 +1,3 @@
-initialisation du READMEA
+initialisation du fichier
+
+Ajout d'informations
